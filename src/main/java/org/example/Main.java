@@ -2,8 +2,6 @@ package org.example;
 
 import java.util.Scanner;
 
-import static java.time.temporal.ChronoUnit.MINUTES;
-
 public class Main {
     public static void main(String[] args) {
         // 1. ':' 문자를 기준으로 시간, 분, 초를 쪼갠다
