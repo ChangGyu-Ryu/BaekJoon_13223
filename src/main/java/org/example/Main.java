@@ -1,10 +1,5 @@
 package org.example;
 
-import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
-import java.time.format.FormatStyle;
-import java.time.temporal.TemporalAmount;
 import java.util.Scanner;
 
 import static java.time.temporal.ChronoUnit.MINUTES;
